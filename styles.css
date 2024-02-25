@@ -1,0 +1,45 @@
+.header, .footer {
+    background-color: #1f2937;
+}
+
+h1 {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+a {
+    color: #E5E7EB;
+    font-weight: 18px;
+    text-decoration: none;
+}
+
+.menu h3, p {
+    font-weight: 24px;
+    color: #F9FAF8;
+}
+
+ul {
+    list-style: none;
+}
+
+.box, button {
+    background-color: #3882F6;
+}
+
+.main p {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.quote-text {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: light;
+}
